@@ -10,7 +10,8 @@
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/two-fer)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/two-fer/two_fer.go)\] P02: Two Fer
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/hamming)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/hamming/hamming.go)\] P03: Hamming
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/raindrops/raindrops.go)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/raindrops/raindrops.go)\] P04: Raindrops
+- :small_blue_diamond: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/{})\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/{}/{}.go)\] P05: Scrabble Score
 
 <strong><h3>GOLANG: Supplementary</h3></strong>
 
-- :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/space-age)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/space-age/space_age.go)\] Space Age
+- :large_orange_diamond: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/space-age)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/space-age/space_age.go)\] Space Age
