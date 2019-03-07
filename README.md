@@ -1,3 +1,6 @@
+![Latest Commit](https://img.shields.io/github/last-commit/AakashSudhakar/exercism-challenges.svg?style=flat)
+![Repository Size](https://img.shields.io/github/repo-size/AakashSudhakar/exercism-challenges.svg?style=flat)
+
 # EXERCISM Challenges
 
 <p>This is a source code repository for working through various algorithmic exercises on <a src="exercism.io/">Exercism</a>.<br>Complete with my commented solutions.</p>
