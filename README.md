@@ -16,8 +16,8 @@
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/scrabble-score/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/scrabble-score/scrabble_score.go)\] P05: Scrabble Score
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/isogram/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/isogram/isogram.go)\] P06: Isogram
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/difference-of-squares/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/difference-of-squares/difference-of-squares.go)\] P07: Difference of Squares
-- :large_orange_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P08: Luhn
-- :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P09: Grains
+- :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/luhn/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/luhn/luhn.go)\] P08: Luhn
+- :large_orange_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P09: Grains
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P10: Clock
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P11: Parallel Letter Frequency
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P12: Tree Building
