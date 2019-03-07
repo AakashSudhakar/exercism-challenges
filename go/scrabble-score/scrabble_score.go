@@ -1,4 +1,4 @@
-// STATUS: Pending.
+// STATUS: Successfully passed.
 package scrabble
 
 import "strings"
