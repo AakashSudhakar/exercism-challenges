@@ -19,7 +19,7 @@
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/luhn/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/luhn/luhn.go)\] P08: Luhn
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/grains/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/grains/grains.go)\] P09: Grains
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/clock/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/clock/clock.go)\] P10: Clock
-- :large_orange_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P11: Parallel Letter Frequency
+- :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P11: Parallel Letter Frequency
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P12: Tree Building
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P13: Robot Name
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] P14: Tournament
@@ -35,4 +35,5 @@
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Leap
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Triangle
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Proverb
-- :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] RNA Transcription
+- :white_check_mark: \[[PROBLEM]()\] \[[SOLUTION]()\] RNA Transcription
+- :large_orange_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Nucleotide Count
