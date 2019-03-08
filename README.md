@@ -33,7 +33,7 @@
 
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/space-age)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/space-age/space_age.go)\] Space Age
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/leap/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/leap/leap.go)\] Leap
-- :large_orange_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Triangle
-- :large_orange_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Proverb
+- :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/triangle/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/triangle/triangle.go)\] Triangle
+- :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/proverb/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/proverb/proverb.go)\] Proverb
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/rna-transcription/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/rna-transcription/rna_transcription.go)\] RNA Transcription
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/nucleotide-count/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/nucleotide-count/nucleotide_count.go)\] Nucleotide Count
