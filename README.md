@@ -32,8 +32,8 @@
 <strong><h3>GOLANG: Supplementary</h3></strong>
 
 - :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/space-age)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/space-age/space_age.go)\] Space Age
-- :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Leap
+- :large_orange_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Leap
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Triangle
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Proverb
-- :white_check_mark: \[[PROBLEM]()\] \[[SOLUTION]()\] RNA Transcription
-- :large_orange_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Nucleotide Count
+- :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/rna-transcription/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/rna-transcription/rna_transcription.go)\] RNA Transcription
+- :white_check_mark: \[[PROBLEM](https://github.com/AakashSudhakar/exercism-challenges/tree/master/go/nucleotide-count/)\] \[[SOLUTION](https://github.com/AakashSudhakar/exercism-challenges/blob/master/go/nucleotide-count/nucleotide_count.go)\] Nucleotide Count
