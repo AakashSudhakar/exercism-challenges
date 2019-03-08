@@ -35,3 +35,4 @@
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Leap
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Triangle
 - :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] Proverb
+- :small_blue_diamond: \[[PROBLEM]()\] \[[SOLUTION]()\] RNA Transcription
